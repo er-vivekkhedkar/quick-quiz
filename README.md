@@ -1,3 +1,13 @@
+# Quick Start 
+
+Clone  :  git clone https://github.com/er-vivekkhedkar/quick-quiz.git
+cd quick-quiz
+npm install
+npm start 
+http://localhost:3000  
+
+
+
 # Quiz Challenge Application
 
 An interactive quiz application built with React that features both API-driven and fallback default questions.
