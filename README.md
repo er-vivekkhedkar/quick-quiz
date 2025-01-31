@@ -1,10 +1,10 @@
-# Quick Start 
+## Quick Start 
 
-Clone  :  git clone https://github.com/er-vivekkhedkar/quick-quiz.git
-cd quick-quiz
-npm install
-npm start 
-http://localhost:3000  
+- Clone  :  git clone https://github.com/er-vivekkhedkar/quick-quiz.git
+- cd quick-quiz
+- npm install
+- npm start 
+- http://localhost:3000  
 
 
 
